@@ -2,6 +2,10 @@
 
 > 来不及了, 快上车
 
+
+- 润 = Run.
+- 配不上厉害国的, 只配润(Run).
+
 <h3  align="center">
     <img width="360" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
 </h3>
@@ -24,6 +28,5 @@
 ## Resource: 
 
 
-
-- 很多关于 `美/加/日/新(加坡)/澳/新(西兰)`等的移民方案, 以及成功 case ,都在 discord 群. 
+- 很多关于 `美/加/日/新(加坡)/澳/新(西兰)`等的移民方案, 以及成功 case ,都在 Discord 群. 
 - 暂时没有时间整理出来. 可以先加群, 爬楼翻历史.
